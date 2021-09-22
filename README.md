@@ -1,6 +1,6 @@
 # Suffix Tree
 
-[mezz's](https://github.com/mezz/JustEnoughItems/tree/1.12/src/main/java/mezz/jei/suffixtree) modified version of suffix tree. Extracted for convenient use.
+[mezz's](https://github.com/mezz/JustEnoughItems/tree/1.12/src/main/java/mezz/jei/suffixtree) modified version of [Generalized Suffix Tree](https://github.com/abahgat/suffixtree). Published for convenient use.
 
 ## Usage
 
